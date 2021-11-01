@@ -5,6 +5,8 @@ public class Helloworld {
         int mysecondenumber = 75;
         int mytotal = (myfirstnumber) + (mysecondenumber);
         System.out.println("toplam" + (mytotal));
+        int myLastOne = 1000 - mytotal ;
+        System.out.println(myLastOne);
 
 
     }
